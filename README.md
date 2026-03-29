@@ -48,3 +48,4 @@ task-5-cybercrime/: *Cybercrime case study and prevention guide.*
 report/: *Final Project Report (.pdf/.docx).*
 
 ## LINKs :
+Canva Infographic : https://www.canva.com/design/DAHFEZHJs3g/IYng1Yx-vrbH0JI-5UYrbQ/edit?utm_content=DAHFEZHJs3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
